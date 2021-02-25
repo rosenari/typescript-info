@@ -1,4 +1,4 @@
-#### 타입스크립트 기초
+#### 기본문법
 
 > 불리언 (Boolean)
 
@@ -175,3 +175,4 @@ let someValue: any = "this is a string";
 
 let strLength: number = (someValue as string).length;
 ```
+
